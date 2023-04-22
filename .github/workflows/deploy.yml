@@ -31,6 +31,8 @@ jobs:
         bundle exec jekyll build
     - name: Fix permission
       run: |
+        git config --global user.email "hanna@amazingyen.com"
+        git config --global user.name "Hanna Yen"
         chmod a+x bin/*
         git commit -am "add execute permission to bin/deploy"
     - name: Deploy 🚀
