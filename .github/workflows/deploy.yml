@@ -29,12 +29,12 @@ jobs:
       run: |
         npm install -g mermaid.cli
         bundle exec jekyll build
-    - name: Fix permission
-      run: |
-        git config --global user.email "hanna@amazingyen.com"
-        git config --global user.name "Hanna Yen"
-        chmod a+x bin/*
-        git commit -am "add execute permission to bin/deploy"
+    # - name: Fix permission
+    #   run: |
+    #     git config --global user.email "hanna@amazingyen.com"
+    #     git config --global user.name "Hanna Yen"
+    #     chmod a+x bin/*
+    #     git commit -am "add execute permission to bin/deploy"
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
       uses: JamesIves/github-pages-deploy-action@v4
