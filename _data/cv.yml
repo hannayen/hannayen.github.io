@@ -17,7 +17,7 @@
       description:
         - Major in Operations Research and Information Engineering
         - Cornell Electric Vehicles Project Team Operations Lead
-        - Cornell Club Softball President
+        - Cornell Women's Club Softball Co-President
     - title: Master of Engineering
       institution: Cornell University, College of Engineering
       year: 2023 - 2023
@@ -30,41 +30,35 @@
   contents:
     - title: Data Science Intern
       institution: Johns Hopkins Applied Physics Laboratory
-      year: Jun. 2023 - Aug. 2023
+      year: 2023
 
     - title: Data Science & Analytics Student Intern
       institution: Cayuga Health Partners
-      year: Oct. 2022 - May 2023
-      description:
-        - Description 1.
-        - Description 2.
+      year: 2022 - 2023
 
     - title: Data Science & Analytics Intern
       institution: Ascot Group
-      year: Jun. 2022 - Oct. 2022
+      year: 2022
 
     - title: Student Manager
       institution: Cornell Annual Fund, Cornell University
-      year: Sep. 2019 - May 2022
+      year: 2019 - 2022
       description:
 
     - title: Viola and Violin Teacher
       institution: Self-Employed
-      year: Jan. 2016 - Sep. 2021
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      year: 2016 - 2021
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2021, 2022
+    - year: 2021
       items: 
-        - Dean's List
+        - Dean's List, Spring
+    - year: 2022
+      items: 
+        - Dean's List, Spring
+        - Dean's List, Fall
     - year: 2023
       items: 
         - Dell Scholarship
