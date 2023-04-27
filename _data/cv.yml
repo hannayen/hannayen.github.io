@@ -2,64 +2,55 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hanna Yen
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 21th November 2001
+    - name: Contact
+      value: hyy5@cornell.edu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science
+      institution: Cornell University, College of Engineering
+      year: 2019 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Major in Operations Research and Information Engineering
+        - Cornell Electric Vehicles Project Team Operations Lead
+        - Cornell Club Softball President
+    - title: Master of Engineering
+      institution: Cornell University, College of Engineering
+      year: 2023 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Major in Operations Research and Information Engineering
+        - Concentration in Data Analytics
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Data Science Intern
+      institution: Johns Hopkins Applied Physics Laboratory
+      year: Jun. 2023 - Aug. 2023
+
+    - title: Data Science & Analytics Student Intern
+      institution: Cayuga Health Partners
+      year: Oct. 2022 - May 2023
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Data Science & Analytics Intern
+      institution: Ascot Group
+      year: Jun. 2022 - Oct. 2022
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Student Manager
+      institution: Cornell Annual Fund, Cornell University
+      year: Sep. 2019 - May 2022
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Viola and Violin Teacher
+      institution: Self-Employed
+      year: Jan. 2016 - Sep. 2021
 
 - title: Open Source Projects
   type: time_table
@@ -71,15 +62,14 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021, 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Dean's List
+    - year: 2023
       items: 
-        - Max Planck Medal
+        - Dell Scholarship
 
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
     - title: Topic 1.
@@ -94,4 +84,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Softball, sports analytics
