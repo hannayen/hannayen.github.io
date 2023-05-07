@@ -29,7 +29,7 @@
   type: time_table
   contents:
     - title: Data Science Intern
-      institution: Johns Hopkins Applied Physics Laboratory
+      institution: Force Projection Sector, Johns Hopkins Applied Physics Laboratory
       year: 2023
 
     - title: Data Science & Analytics Student Intern
@@ -52,30 +52,28 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2021
+    - year: 2023
       items: 
-        - Dean's List, Spring
+        - Dell Fellowship
     - year: 2022
       items: 
         - Dean's List, Spring
         - Dean's List, Fall
-    - year: 2023
+    - year: 2021
       items: 
-        - Dell Scholarship
+        - Dean's List, Spring
 
 - title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Languages
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python, SQL, R, Java
+    - title: Tools
       items:
-        - Description 1.
-        - Description 2.
+        - QGIS, Tableau, Power BI, GitHub, Excel
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Softball, sports analytics
+    - <u>Hobbies:</u> Softball, sports analytics, music
