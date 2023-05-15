@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hannayen.github.io/sitemap.xml
+Sitemap: https://hannayen.github.io/about//sitemap.xml
